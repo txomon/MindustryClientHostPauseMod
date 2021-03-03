@@ -1,0 +1,8 @@
+name: "client-host-pause"
+displayName: "Client host pause mod"
+author: "Javier Domingo Cansino"
+main: "com.txomon.mindustry.clienthostpause.ClientHostPauseMod"
+description: "A mod to allow the host to pause the game."
+version: 1.0
+minGameVersion: 125
+
