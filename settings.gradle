@@ -1,0 +1,2 @@
+includeBuild "../mindustry"
+includeBuild "../arc"
